@@ -1,0 +1,37 @@
+_repo: The-Coffin-Cure_24276
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Nourse, Alan Edward
+    aliases:
+    - Nourse, Alan E. (Alan Edward)
+    - Edwards, Al
+    birthdate: 1928
+    deathdate: 1992
+    gutenberg_agent_id: '25579'
+    url: http://www.gutenberg.org/2009/agents/25579
+    wikipedia: http://en.wikipedia.org/wiki/Alan_E._Nourse
+description: Alan Edward Nourse, an American science fiction author and physician,
+  also writing under the names of Dr. X and Al Edwards, wrote both juvenile and adult
+  science fiction, as well as nonfiction works about medicine and science. Nourse
+  helped pay for his medical education by writing science fiction for magazines and
+  continued after retiring from medicine.
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2008-01-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24276'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction, American'
+- !lcc 'PS'
+title: The Coffin Cure
+url: http://www.gutenberg.org/ebooks/24276
